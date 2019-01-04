@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\Task5_Course2.exe.config
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\Task5_Course2.exe
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\Task5_Course2.pdb
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.Form1.resources
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.Properties.Resources.resources
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.exe
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\obj\Debug\Task5_Course2.pdb
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\RaceLibrary5.dll
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\source\repos\Task4_Course2\Task5_Course2\bin\Debug\RaceLibrary5.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Task4_Course2\RaceLibrary\bin\Debug\RaceLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\RaceLibrary\bin\Debug\RaceLibrary.pdb
+C:\Users\User\source\repos\Task4_Course2\RaceLibrary\obj\Debug\RaceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Task4_Course2\RaceLibrary\obj\Debug\RaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task4_Course2\RaceLibrary\obj\Debug\RaceLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\RaceLibrary\obj\Debug\RaceLibrary.pdb

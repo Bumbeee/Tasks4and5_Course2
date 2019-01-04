@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.MainForm.resources
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.Properties.Resources.resources
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\Task4_Course2.exe.config
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\Task4_Course2.exe
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\Task4_Course2.pdb
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\DrawingLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\RaceLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\DrawingLibrary.pdb
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\bin\Debug\RaceLibrary.pdb
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.exe
+C:\Users\User\source\repos\Task4_Course2\Task4_Course2\obj\Debug\Task4_Course2.pdb

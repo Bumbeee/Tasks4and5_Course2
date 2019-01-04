@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\obj\Debug\DrawingLibrary.Resources.resources
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\obj\Debug\DrawingLibrary.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\obj\Debug\DrawingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\bin\Debug\DrawingLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\bin\Debug\DrawingLibrary.pdb
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\bin\Debug\RaceLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\bin\Debug\RaceLibrary.pdb
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\obj\Debug\DrawingLibrary.dll
+C:\Users\User\source\repos\Task4_Course2\DrawingLibrary\obj\Debug\DrawingLibrary.pdb
